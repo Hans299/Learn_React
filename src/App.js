@@ -133,6 +133,9 @@ class App extends React.Component {
           />
         </div>
         <div className="game-info">
+          <span>
+            add commit
+          </span>
           <div>{status}</div>
           <ol>{moves}</ol>
         </div>
